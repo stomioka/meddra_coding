@@ -7,7 +7,8 @@ BlazingText with Subword Models (BTSM) were built on MedDRA 4-22 & 4 ISS
 2. 500 dimension model
 ![](images/README-6577df14.png)
 
-3. 100 dimention model with artificial argumentation
+3. 100 dimention model with artificial augmentation
+4. 500 dimention model with artificial augmentation
 
 ## MedDRA coding models
 ![](images/README-2ed04d0f.png)
