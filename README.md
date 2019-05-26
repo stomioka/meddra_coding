@@ -2,7 +2,7 @@
 Repo for MedDRA coding results
 
 ## Word Embeddings
-BlazingText with Subword Models (BTSM) were built on MedDRA 4-22 & 4 ISS
+BlazingText with Subword Models (BTSM) were built on MedDRA 4-22 & anonymized AE+MH data
 1. 100 dimension model
 2. 500 dimension model
 ![](images/README-6577df14.png)
